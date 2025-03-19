@@ -1,0 +1,16 @@
+{
+  "name": "worldlealgorithm",
+  "type":"module",
+  "version": "1.0.0",
+  "main": "wordle.js",
+  "scripts": {
+    "test": "cross-env NODE_OPTIONS=$NODE_OPTIONS--experimental-vm-modules jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
